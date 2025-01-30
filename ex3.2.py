@@ -1,7 +1,7 @@
 import re
 import timeit
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 file_path = "pg2701.txt"
